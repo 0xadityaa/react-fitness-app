@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import { Box } from '@mui/icons-material';
-import ExcerciseDetail from './pages/ExcersiseDetail';
+import ExcerciseDetail from './pages/ExcerciseDetail';
 import Home from './pages/Home';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -13,7 +13,7 @@ const App = () => {
         <Navbar />
         <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/excercise/:id" element={<ExcerciseDetail />} />
+            <Route path="/exercise/:id" element={<ExcerciseDetail />} />
         </Routes>
         <Footer />
     </box>
