@@ -22,5 +22,5 @@ This is a modern React 18 Fitness Exercises App with the functionality to choose
 ## Deployment
 
 This site is deployed here :
-[Fitness App](react-myfitness-app.netlify.app)
+[Fitness App](https://react-myfitness-app.netlify.app/)
 
