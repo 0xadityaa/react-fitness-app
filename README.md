@@ -1,4 +1,4 @@
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+![React Fitness Application](https://i.ibb.co/JdjFb8q/image.png)
 # Exercises App
 
 This is a modern React 18 Fitness Exercises App with the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more
